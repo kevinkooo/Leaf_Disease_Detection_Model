@@ -8,4 +8,6 @@ This project uses dataset from Kaggle. The dataset contains images on three grou
 - 458 healhty
 - 430 powder
 - 434 rust
+
+  
 The test set contains 50 if eacg group and the validation set contains 20 of each group.
